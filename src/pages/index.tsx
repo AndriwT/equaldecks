@@ -16,7 +16,7 @@ export default function Home() {
         </h1>
         <img className="w-full h-full crop" src="sunShiningFeetCloseUp.jpg" />
       </div>
-      <div className="flex flex-row justify-center space-x-48 p-10">
+      <div className="flex flex-row justify-center space-x-48 m-6 mt-16">
         <Feature />
         <Feature />
         <Feature />
